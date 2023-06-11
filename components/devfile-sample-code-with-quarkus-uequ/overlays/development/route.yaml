@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: devfile-sample-code-with-quarkus-uequ
     app.kubernetes.io/part-of: my-app-2
-  name: devfile-sample-code-with-yiwo
+  name: devfile-sample-code-with-jsax
 spec:
   path: /
   port:
